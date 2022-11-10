@@ -3,7 +3,9 @@
 ===================================================================================
 
 Project objective: 
-To navigate a model race-car autonomously 3 laps around a 10m x 2m [LxW] track (see TRACK.png for details about course track)
+To navigate a model race-car autonomously 3 laps around a 10m x 2m [LxW] track
+
+![Diagram of course track](TRACK.png)
 
 System specifications: 
 BeagleBone Black processor, 16-bit TI Launchpad MSG2553 microcontroller, electronic speed control (ESC), model race-car (approx. 40cm x 25cm x 20cm [LxWxH]), magnetometer, Logitech USB webcam, Bluetooth transceiver
